@@ -1,6 +1,6 @@
 # Django-react-todo-app
 
-A demo django-react app for deployment.
+A demo django-react application for deployment.
 
 docker-compose down
 
